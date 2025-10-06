@@ -19,6 +19,9 @@ A Vue 3 + TypeScript application that displays upcoming horse, harness, and grey
 
 ## Screenshot
 
+<img width="1024" height="616" alt="image" src="https://github.com/user-attachments/assets/a4bedd13-2270-4943-84b5-b92e6eb2dca7" />
+
+
 ---
 
 ## Tech Stack
