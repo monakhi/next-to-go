@@ -40,7 +40,7 @@ A Vue 3 + TypeScript application that displays upcoming horse, harness, and grey
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/next-to-go.git
+   git clone https://github.com/monakhi/next-to-go.git
    cd next-to-go
    ```
 
