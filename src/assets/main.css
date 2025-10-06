@@ -1,0 +1,24 @@
+@import 'tailwindcss';
+
+.btn {
+  @apply inline-flex items-center gap-2 rounded-2xl px-4 py-2 text-white bg-gray-900 hover:opacity-90 transition;
+}
+.card {
+  @apply rounded-2xl border border-gray-200 p-4 shadow-sm bg-white;
+}
+
+.list-move {
+  transition: transform 160ms ease;
+}
+.list-enter-active,
+.list-leave-active {
+  transition: opacity 160ms ease;
+}
+.list-enter-from,
+.list-leave-to {
+  opacity: 0;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
